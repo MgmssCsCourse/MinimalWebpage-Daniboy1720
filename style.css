@@ -1,23 +1,16 @@
 .indexbody 
 {
   font-family: Arial;
-  background-color: red;
 } 
 
 .h1Title {
   font-size: 6vh: 
-  color: #c0392b;
+  font-color: red;
 }
 .h2Title {
   font-size: 3vh;
-}
-h2 { 
-    font-color: red;
-}
-
-h1 { 
-    font-color: red;
+  font-color: red;
 }
 .SchulBild {
-  width: 20vw;
+  width: 40vw;
 }
