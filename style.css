@@ -9,6 +9,10 @@
 .h2Title {
   font-size: 3vh;
 }
-.h2Title , h1Title { 
+h2 { 
+    font-color: red;
+}
+
+h1 { 
     font-color: red;
 }
