@@ -1,7 +1,9 @@
 .indexbody 
 {
   font-family: Arial;
+  background-color: red;
 } 
+
 .h1Title {
   font-size: 6vh: 
   color: #c0392b;
